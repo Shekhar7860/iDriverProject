@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "111333638526",
+    "firebase_url": "https://idriver-staging.firebaseio.com",
+    "project_id": "idriver-staging",
+    "storage_bucket": "idriver-staging.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111333638526:android:b322225162aff49572332f",
+        "android_client_info": {
+          "package_name": "com.idriver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "111333638526-qner74qi02rj9osrn00t2f0n2tftdv2l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJKIzWOvZZnLf91A-GzYnaGvewZqWM0p0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "111333638526-qner74qi02rj9osrn00t2f0n2tftdv2l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "111333638526-3qnmnqb4avbie42vpdsr87rusm0k304o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.iDriver"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111333638526:android:f34e7753486eead1",
+        "android_client_info": {
+          "package_name": "com.ionicframework.idriver320262"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "111333638526-qner74qi02rj9osrn00t2f0n2tftdv2l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJKIzWOvZZnLf91A-GzYnaGvewZqWM0p0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "111333638526-qner74qi02rj9osrn00t2f0n2tftdv2l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "111333638526-3qnmnqb4avbie42vpdsr87rusm0k304o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.iDriver"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
